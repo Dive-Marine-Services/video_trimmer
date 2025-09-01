@@ -14,7 +14,9 @@ dependencies:
   video_trimmer:
     path: ../
 
-  video_player: ^2.9.5
+  video_player:  
+    git:
+      url: https://github.com/Dive-Marine-Services/video_player.git
   file_picker: ^10.1.2
 
 dev_dependencies:
